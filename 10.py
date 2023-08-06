@@ -9,7 +9,6 @@ for i in range(n):
     if x == 2:
         monet_reshka +=1
     else: 
-        x == 1
         monet_gerb += 1
 if monet_gerb <= monet_reshka:
     print(f'необходимо перевернуть {monet_gerb} монет')
